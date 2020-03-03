@@ -1,0 +1,6 @@
+dao\UserDAO.class
+util\DBHelper.class
+servlet\MainServlet.class
+services\UserService.class
+dao\UserHibernateDAO.class
+model\User.class
